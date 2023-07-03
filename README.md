@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <h3>Web Developer </h3><br><br>
 
-<p> Developers who create beneficial social values </p> <br>
+<p> Developers who create beneficial social values </p> 
 <p> A developer who thinks, researches, creates, and connects to practical realization by web </p><br>
 
 <p>🛠 Stacks </p>
