@@ -15,11 +15,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Web Developer <br><br>
+<h3>Web Developer </h3><br><br>
 
-Developers who create beneficial social values <br>
-A developer who thinks, researches, creates, and connects to practical realization by web <br>
+<p> Developers who create beneficial social values </p> <br>
+<p> A developer who thinks, researches, creates, and connects to practical realization by web </p><br>
+
+<p>🛠 Stacks </p>
+<img src="https://img.shields.io/badge/MYSQL-4479A1?style=flat-square&logo=MYSQL&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
 
 
-🏅 Algorithm Gold Level. <br>
+<p>🏅 Algorithm Gold Level. </p><br>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tmddk512)](https://solved.ac/tmddk512/)  
