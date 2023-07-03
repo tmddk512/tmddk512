@@ -1,4 +1,4 @@
-### Hi Welcome, I'm SeungA Yang 👋
+### Hi Welcome, I'm Yang Seung A 👋
 
 <!--
 **tmddk512/tmddk512** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
