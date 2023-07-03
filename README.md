@@ -25,5 +25,6 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
 
 <br>
-<p>🏅 Algorithm Gold Level. </p><br>
+<p>🏅 Algorithm Gold Level. </p>
+
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tmddk512)](https://solved.ac/tmddk512/)  
