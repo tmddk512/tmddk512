@@ -24,7 +24,6 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/MYSQL-4479A1?style=flat-square&logo=MYSQL&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
 
-
+<br>
 <p>🏅 Algorithm Gold Level. </p><br>
-
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tmddk512)](https://solved.ac/tmddk512/)  
