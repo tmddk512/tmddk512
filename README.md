@@ -24,6 +24,10 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/MYSQL-4479A1?style=flat-square&logo=MYSQL&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
 
+#![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tmddk512&show_icons=true&theme=radical)
+
+
+
 <br>
 <p>🏅 Algorithm Gold Level. </p>
 
