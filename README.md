@@ -15,5 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+## Web Developer <br>
+
+Developers who create beneficial social values <br>
+A developer who thinks, researches, creates, and connects to practical realization by web <br>
+
+
 🏅 Algorithm Gold Level. <br>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tmddk512)](https://solved.ac/tmddk512/)  
