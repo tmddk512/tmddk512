@@ -33,15 +33,8 @@ Here are some ideas to get you started:
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tmddk512)](https://solved.ac/tmddk512/)  
 
 <p>🏆 Awards</p>
-<table>
-  <tr>
-    <td>Competition</td>
-    <td>Prize</td>
-    <td>Date</td>
-  </tr>
-  <tr>
-    <td>Gwangju Metropolitan City Start-up Competition Using Public Data</td>
-    <td>3rd</td>
-    <td>July 19, 2022</td>
-  </tr>
-</table>
+
+
+|Competition|Prize|Date|
+|------|---|---|
+|Gwangju Metropolitan City Start-up Competition Using Public Data|3rd|July 19, 2022|
