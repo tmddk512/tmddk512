@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi Welcome, I'm SeungA Yang 👋
 
 <!--
 **tmddk512/tmddk512** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
+🏅 Algorithm Gold Level.
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tmddk512)](https://solved.ac/tmddk512/)  
