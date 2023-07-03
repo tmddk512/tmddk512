@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 <p> 🖋 Developers who create beneficial social values </p> 
 <p> 💡 A developer who thinks, researches, creates, and connects to practical realization by web </p><br>
 
-<p>🛠 Stacks </p>
+<h3>🛠 Stacks </h3>
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
@@ -48,11 +48,11 @@ Here are some ideas to get you started:
 
 
 <br>
-<p>🏅 Algorithm Gold Level. </p>
+<h3>🏅 Algorithm Gold Level. </h3>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tmddk512)](https://solved.ac/tmddk512/)  
 
-<p>🏆 Awards</p>
+<h3>🏆 Awards</h3>
 
 
 |Competition|Prize|Date|
