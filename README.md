@@ -46,8 +46,6 @@ Here are some ideas to get you started:
 <!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tmddk512&show_icons=true&theme=radical)-->
 
 
-
-<br>
 <h3>🏅 Algorithm Gold Level </h3>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tmddk512)](https://solved.ac/tmddk512/)  
