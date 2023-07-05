@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <h3>Web Developer </h3>
 
 <p> 🖋 Developers who create beneficial social values </p> 
-<p> 💡 A developer who thinks, researches, creates, and connects to practical realization by web </p><br>
+<p> 💡 A developer who thinks, researches, creates, and connects to practical realization by web </p>
 
 <h3>🛠 Stacks </h3>
 
@@ -44,7 +44,6 @@ Here are some ideas to get you started:
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
 <!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tmddk512&show_icons=true&theme=radical)-->
-
 
 <h3>🏅 Algorithm Gold Level </h3>
 
